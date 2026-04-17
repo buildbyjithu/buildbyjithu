@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![AI Tokens](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.tokensai.dev%2Fapi%2Fv1%2Fbadges%2Fjithu21%2Fshields.json)
+![AI Tokens](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.tokensai.dev%2Fapi%2Fv1%2Fbadges%2Fjithu21%2Fshields.json)  
 
 <!--
 **buildbyjithu/buildbyjithu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
